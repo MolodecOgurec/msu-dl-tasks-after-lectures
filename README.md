@@ -1,9 +1,8 @@
-# Список лекций и конспектов:
+# План курса:
 
- https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Deep%20Learning/lectures_autumn_2022.md
+Ссылка на github страницу курса: https://github.com/MSUcourses/Data-Analysis-with-Python/blob/main/Deep%20Learning/lectures_autumn_2022.md
 
 <br>
-
 
 # Как начать?
 
