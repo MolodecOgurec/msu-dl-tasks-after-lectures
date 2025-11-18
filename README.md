@@ -4,5 +4,5 @@
     1.1. Откройте терминал вашей ОС (cmd или Powershell на Windows):
         1.1.1. Введите команду создания ssh ключа (потребуется для работы с репозиторием): 
 
-        `ssh-keygen -t ed25519 -C "your_email@example.com"`
-        
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
